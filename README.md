@@ -10,7 +10,7 @@ An interactive Excel dashboard on 1,500 rows of campaign data (Jan-Dec 2025).
 - Charts: Monthly Revenue vs Profit, Top 8 Affiliates, Revenue by Channel, Profit by Campaign
 - Formulas used: SUMIFS, INDEX/MATCH, LARGE, IFERROR, MONTH
 ## Dashboard Preview
-![Dashboard](Screenshot_2026-11-23_012929.png)
+![Dashboard](dashboard.png)
 ## Key insights
 - Total revenue Rs 1.70 Cr with a 33.8% profit margin and 4.19% conversion rate.
 - Oct and Nov are the peak months (festive season), roughly 1.5x a normal month.
